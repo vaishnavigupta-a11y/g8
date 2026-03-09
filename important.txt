@@ -1,0 +1,4 @@
+push project in github mean uplaod projhect 
+github rpeo conayaing redame file means psosibilty of conflict ->solve(git pull origin  main --rebase) porjcet remote->merge rmepte +local then agiuan pull kro
+with readme github repo -deafult main
+vs cod efdefault master-?solve git branch -m main (currnet barnch->change->main)

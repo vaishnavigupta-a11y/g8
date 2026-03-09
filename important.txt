@@ -2,3 +2,21 @@ push project in github mean uplaod projhect
 github rpeo conayaing redame file means psosibilty of conflict ->solve(git pull origin  main --rebase) porjcet remote->merge rmepte +local then agiuan pull kro
 with readme github repo -deafult main
 vs cod efdefault master-?solve git branch -m main (currnet barnch->change->main)
+
+kdiff dvs cdoe matser ,githu main sop use git branch -m main curnet banch nam echeg to maineafyult branch 
+git init
+git status
+git add .
+git status 
+git commit -m "lc1"
+git branch -m main(master->main) wrn amaster namki new branch anegi hoki featyr ebranch ke trh conside hogi then jb push krnege to pull rqu ki trh wo cat kregi
+git remote add origin url
+git pull origin main --rebase (cinflict ciome because alredy readme file is prnet in github repo which is not prnte in local so no retaion bt two rpeo in giyhub an dlocal taht why to craete rle firts pull prohect form githu thnenagian psuh)
+git push origin main
+
+
+if in ftur esome change hap[pen in loicalmto reflevct ghat cahneg in rmeote 
+git status
+git add .
+git status
+git push origin main]
